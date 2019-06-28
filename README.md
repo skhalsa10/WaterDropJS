@@ -11,8 +11,20 @@ it could be better. So as I was saying above. I converted this to processing.
 from there I easily ported it to javascript using the processing library. this is what is contained
 in this project.
 
+![](img/WaterDrop.gif)
+
+Pretty unbelievable! what a freakin improvement.  it is night and day!  
+
+HAHA just playing! that is the same picture! you are not crazy at all. Here is what is really contained:
+
 ![](img/WaterDropJS.gif)
 
-Pretty unbelievable! what a freakin improvement.  it is night and day!
-\n
-HAHA just playing! that is the same picture! you are not crazy at all. Here is what is really contained:
+Okay I admit that the GIF quality is not that good. feel free to go check it out on my website thing www.snizzle.me
+
+## DISCLAIMER
+
+This is literally my first time EVER using javascript. So if there is something I am doing that I shouldnt please let me know so I can soak up the right knowledge from you!
+
+Cheers.
+
+-Siri Khalsa
